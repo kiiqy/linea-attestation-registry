@@ -51,10 +51,10 @@ Don't hesitate to check our [Contribution Guide](./CONTRIBUTING.md) before pushi
 
 The main contracts (i.e. the "registries") and the helpers contracts are deployed on:
 
-- Linea Testnet
-- Linea Mainnet
-- Arbitrum Testnet
-- Arbitrum Mainnet
+* Linea Testnet
+* Linea Mainnet
+* Arbitrum Testnet
+* Arbitrum Mainnet
 
 Here are the addresses on those networks:
 
